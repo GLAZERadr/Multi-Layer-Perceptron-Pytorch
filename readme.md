@@ -54,4 +54,5 @@ In summary, while our MLP model provides a foundation for predicting GDP based o
 ## Reference
 
 [1] PyTorch: https://pytorch.org/
+
 [2] Factbook: https://www.cia.gov/the-world-factbook/
