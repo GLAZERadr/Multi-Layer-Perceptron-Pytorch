@@ -1,5 +1,9 @@
 # Multi Layer Perceptron Using Pytorch
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE)
+
 ## Introduction
 
 In this project, we will explore the implementation of a Multi Layer Perceptron (MLP) using PyTorch. MLP is a type of feedforward neural network that consists of multiple layers of nodes (neurons) connected in a sequential manner. It is a versatile and widely used architecture that can be applied to various machine learning tasks, including classification, regression, and pattern recognition.
